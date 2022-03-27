@@ -14,5 +14,4 @@
 Курсы:
 1. [Погружение в Python](https://github.com/momsspaghettti/coursera-programming-in-python/tree/master/Python_1)
 2. [ООП и паттерны проектирования в Python](https://github.com/momsspaghettti/coursera-programming-in-python/tree/master/Python_2)
-3. [Создание Web-сервисов на Python](https://github.com/momsspaghettti/coursera-programming-in-python/tree/master/Python_3)
-4. [Python для анализа данных](https://github.com/momsspaghettti/coursera-programming-in-python/tree/master/Python_4)
+3. [Создание Web-сервисов на Python](https://github.com/Andreev-A/Learning/tree/master/Creating_web_services_in_python)
