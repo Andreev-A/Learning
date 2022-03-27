@@ -7,5 +7,5 @@
 
 Курсы:
 1. [Погружение в Python](https://github.com/Andreev-A/Learning/tree/master/Immersion_in_python)
-2. [ООП и паттерны проектирования в Python](https://github.com/momsspaghettti/coursera-programming-in-python/tree/master/Python_2)
+2. [ООП и паттерны проектирования в Python](https://github.com/Andreev-A/Learning/tree/master/OOP_and_design_patterns_in_python)
 3. [Создание Web-сервисов на Python](https://github.com/Andreev-A/Learning/tree/master/Creating_web_services_in_python)
