@@ -1,3 +1,8 @@
+# Курсовые проекты #
+1. [Сервер для приема метрик](https://github.com/Andreev-A/Learning/tree/master/Immersion_in_python)
+2. [Игра «Рыцарь в подземелье»](https://github.com/Andreev-A/Learning/tree/master/OOP_and_design_patterns_in_python)
+3. [Web-приложение для управления умным домом](https://github.com/Andreev-A/Learning/tree/master/Creating_web_services_in_python)
+
 # Программирование на Python Specialization #
 
 [Специализация Программирование на Python](https://www.coursera.org/specializations/programming-in-python) by Moscow Institute of Physics and Technology, Mail.Ru Group & ФРОО
